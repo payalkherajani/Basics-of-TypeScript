@@ -39,4 +39,19 @@ console.log(myVar);
                 // and similar to other
 
 //Tuple
-let stringNumTuple: [string]
+let strNumTuple: [string,number]
+
+strNumTuple = ["a",1];
+console.log(strNumTuple);
+
+//Void
+let myVoid: void = null;
+console.log(myVoid);
+
+//Null
+let myNull: null = undefined;
+console.log(myNull);
+
+//Undefined
+let myUndefined: undefined = null;
+console.log(myUndefined);

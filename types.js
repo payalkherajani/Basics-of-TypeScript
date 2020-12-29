@@ -31,4 +31,15 @@ var stringArray;
 stringArray = ["a", "b", "c"];
 // and similar to other
 //Tuple
-var stringNumTuple;
+var strNumTuple;
+strNumTuple = ["a", 1];
+console.log(strNumTuple);
+//Void
+var myVoid = null;
+console.log(myVoid);
+//Null
+var myNull = undefined;
+console.log(myNull);
+//Undefined
+var myUndefined = null;
+console.log(myUndefined);
